@@ -1,25 +1,25 @@
 body {
-  background-image: url("../assets/thorofare-blurred.png");
+  background-image: url("assets/thorofare-blurred.png");
   background-size: 100%;
 }
 
 h1{
   color: black;
-  margin-left: 775px; 
+  text-align: center;
 }
 
 h2{
   color: black;
-  margin-left: 745px;
   margin-top: -30px;
+  text-align: center;
 }
 
 h3{
   color: black;
-  margin-left: 830px;
+  margin-top: -10px;
+  text-align: center;
 }
 
 .icons{
   position: relative;
-  left: 1580px;
 }
