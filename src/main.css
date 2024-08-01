@@ -1,8 +1,25 @@
 body {
-  background-color: darkgray;
+  background-image: url("../assets/thorofare-blurred.png");
+  background-size: 100%;
 }
 
 h1{
   color: black;
-  margin-left: 20px;
+  margin-left: 775px; 
+}
+
+h2{
+  color: black;
+  margin-left: 745px;
+  margin-top: -30px;
+}
+
+h3{
+  color: black;
+  margin-left: 830px;
+}
+
+.icons{
+  position: relative;
+  left: 1580px;
 }
